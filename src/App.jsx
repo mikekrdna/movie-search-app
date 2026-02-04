@@ -4,7 +4,7 @@ function App() {
   
   const [movies, setMovies] = useState([]);
   const [busqueda, setBusqueda] = useState('');
-  const apiKey = 'bb7f88118fe2f94a5fb0ccf1b681dccb';
+  const apiKey = import.meta.env.VITE_API_KEY;
   const endpoint = 'https://api.themoviedb.org/3/movie/popular';
   useEffect(() => {
     const timer = setTimeout(() => {
