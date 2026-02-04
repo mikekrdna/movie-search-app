@@ -3,7 +3,7 @@
 Una aplicación web interactiva para buscar y explorar películas, construida con **React**. Este proyecto consume la API de **The Movie Database (TMDB)** en tiempo real.
 
 ## 🚀 Demo en vivo
-**[AQUÍ PONDREMOS EL LINK DE VERCEL EN EL SIGUIENTE PASO]**
+**[Aplicacion en funcionamiento]** (https://movie-search-app-two-azure.vercel.app/)
 
 ---
 
