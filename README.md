@@ -1,16 +1,40 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación web interactiva para buscar y explorar películas, construida con **React**. Este proyecto consume la API de **The Movie Database (TMDB)** en tiempo real.
 
-Currently, two official plugins are available:
+## 🚀 Demo en vivo
+**[AQUÍ PONDREMOS EL LINK DE VERCEL EN EL SIGUIENTE PASO]**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠 Tecnologías Utilizadas
+* **Core:** React (Vite/CRA)
+* **Manejo de Estado:** React Hooks (`useState`, `useEffect`)
+* **API:** Integración con TMDB API
+* **Estilos:** CSS Modules / CSS
+* **Control de Versiones:** Git & GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades Clave
+* **Búsqueda en Tiempo Real:** Filtra películas dinámicamente.
+* **Consumo de API:** Peticiones asíncronas para traer datos e imágenes.
+* **Manejo de Errores:** Feedback visual si falla la conexión o no hay resultados.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Aprendizajes (De Técnico a Dev)
+Como profesional en soporte TI, apliqué mi experiencia en diagnóstico para manejar los flujos de datos y errores de la API, asegurando que la aplicación sea robusta ante fallos de red.
+
+---
+
+## 🔧 Instalación Local
+1. Clonar el repositorio.
+2. `npm install`
+3. `npm run dev`
+
+---
+
+## 👨‍💻 Autor
+Miguel Angel Cardona Galvez
+*IT Technician & Frontend Developer*
